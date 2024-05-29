@@ -1,0 +1,9 @@
+# Ignore Visual Studio temporary files, build results, and
+# JetBrains Rider
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
+**/*.user
+**/*.suo
+
